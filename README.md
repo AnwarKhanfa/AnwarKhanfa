@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @AnwarKhanfa
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning in Axsos Academy , html ,css, python, MySQL, JS and much more 
+- 💞️ I’m looking to collaborate on web development projects
+- 📫 How to reach me on email anwarkhanfa2017@gmail.com 
+- 😄 Pronouns: pharmacist anwar and full stack developer
+- ⚡ Fun fact: eat one apple a day keep the doctor away hhhh
